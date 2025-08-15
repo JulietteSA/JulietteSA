@@ -1,16 +1,20 @@
-## Hi there 👋
+### ⚔️ Origins
 
-<!--
-**JulietteSA/JulietteSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚔️ **Frontend developer in the army of [Unlikely Studio](https://unlikely.technology/)**, forging interactive worlds and digital experiences
+- 🏰 This is the **professional battleground**, where my greatest battles are fought and victories recorded
+- 🎨 **Creative force** blending code, design and storytelling
+- 👩‍🎓 Roots at the guild of <a href="https://www.gobelins.fr/" target="_blank">@Gobelins</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Domains I forge
+
+I craft universes with precision and imagination.  
+Some are built with code, others with design — all born from strategy, creativity and mastery.
+
+---
+
+### 🗡️ Battles I fight
+
+- Building performant, scalable and creative web platforms
+- Designing unique, interactive user journeys
